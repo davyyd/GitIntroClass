@@ -1,3 +1,2 @@
  This is a new file for testing git.
-Some more changes
 
